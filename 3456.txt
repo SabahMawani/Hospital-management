@@ -1,0 +1,14 @@
+3456
+Ronald
+23
+M
+Burrow
+3456789
+A-
+
+Patient admitted on: Fri May 21 14:34:34 2021
+
+Symptoms: Stomach Ache
+Department name: Urology
+Diagnosis: Cold
+Medicine: Panadol

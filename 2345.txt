@@ -1,0 +1,14 @@
+2345
+Dean Thomas
+14
+M
+Scotland
+2345678
+AB+
+
+Patient admitted on: Fri May 21 14:09:06 2021
+
+Symptoms: Swelling on arm
+Department name: Surgery
+Diagnosis: Broken Arm
+Medicine: Cast

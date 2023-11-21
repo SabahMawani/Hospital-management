@@ -1,0 +1,14 @@
+1234
+Harry
+18
+M
+Privet Drive
+1234567
+AB+
+
+Patient admitted on: Fri May 21 14:08:11 2021
+
+Symptoms: Fever,Cough,Body Pain
+Department: Emergency
+Patient has been discharged on: Fri May 21 14:09:31 2021
+
